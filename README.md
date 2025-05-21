@@ -87,6 +87,10 @@ You can include:
 
 ---
 
+## 🖼️ Project Architecture
+
+![Pipeline Architecture](images/project_pipeline.jpeg)
+
 ## 🙌 Author
 
 **Bhagavath Darapureddy**  
