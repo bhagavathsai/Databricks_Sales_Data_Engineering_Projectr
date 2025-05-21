@@ -27,10 +27,10 @@ This project demonstrates a complete data engineering pipeline using the **medal
 
 ## 📂 Datasets Used
 
-- `customers.csv`
-- `products.csv`
-- `orders.csv`
-- `regions.csv`
+- `customers.parquet`
+- `products.parquet`
+- `orders.parquet`
+- `regions.parquet`
 
 ---
 
