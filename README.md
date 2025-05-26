@@ -81,11 +81,8 @@ You can include:
 | Folder          | Contents                                  |
 |------------------|--------------------------------------------|
 | `notebooks/`     | Databricks notebooks (bronze → gold)       |
-| `data_samples/`  | Small sample CSVs for reference            |
-| `pipeline_images/` | Optional architecture diagrams            |
-| `configs/`       | Mount and access configurations            |
-
----
+| `data_set/`      | CSVs for project                           |
+| `images/`        | Optional architecture diagrams             |
 
 ## 🖼️ Project Architecture
 
